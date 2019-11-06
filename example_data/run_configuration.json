@@ -1,0 +1,41 @@
+{
+  "title": "IVA workshop test data",
+  "basecalledPath": "basecalled",
+  "samples": [
+    {
+      "name": "WSN33",
+      "description": "",
+      "barcodes": [ "BC01" ]
+    },
+    {
+      "name": "Sample02",
+      "description": "",
+      "barcodes": [ "BC02" ]
+    },
+    {
+      "name": "California/07/2009 BC03",
+      "description": "",
+      "barcodes": [ "BC03" ]
+    },
+    {
+      "name": "Sample04",
+      "description": "",
+      "barcodes": [ "BC04" ]
+    },
+    {
+      "name": "Sample05",
+      "description": "",
+      "barcodes": [ "BC05" ]
+    },
+    {
+      "name": "Sample06",
+      "description": "",
+      "barcodes": [ "BC06" ]
+    },
+    {
+      "name": "Sample07",
+      "description": "",
+      "barcodes": [ "BC07" ]
+    }
+  ]
+}
