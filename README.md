@@ -1,11 +1,11 @@
-# rampart-ebov
-RAMPART protocol folder for EBOV
+# rampart-iva
+RAMPART protocol folder for Influenza A virus
 
 ## Installing
 Clone this repository:
 
 ```
-git clone https://github.com/artic-network/rampart-ebov.git
+git clone https://github.com/artic-network/rampart-iva.git
 ```
 
 Create conda environment and activate it:
@@ -30,14 +30,14 @@ Where `[run_name]` is whatever you are calling todays run (as specified in MinKN
 Run RAMPART:
 
 ```
-rampart --protocol ../rampart-ebov --basecalledPath ~/MinKNOW/data/reads/[run_name]/pass
+rampart --protocol ../rampart-iva/protocol --basecalledPath ~/MinKNOW/data/reads/[run_name]/pass
 ```
 
 `basecalledPath` should be set to whereever MinKNOW/guppy is going to write its basecalled files.
 
 ## Example Data
 
-The directory `example_data` contains some reads from an Ebola virus MinION run to test RAMPART with. To try this:
+The directory `example_data` contains some reads from an influenza virus MinION run to test RAMPART with. To try this:
 
 ```
 cd rampart/example_data
